@@ -15,3 +15,4 @@ source devel/setup.sh
 roslaunch atom world.launch
 ```
 
+![Sample image ](sample.png)
