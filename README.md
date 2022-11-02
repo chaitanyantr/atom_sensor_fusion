@@ -1,7 +1,5 @@
 # Atom Robot - sensor_fusion
 sensor fusion project workspace
-## Atom Robot
-roslaunch atom world.launch
 
 ## Set up workspace
 ```bash
@@ -10,3 +8,10 @@ cd atom_sensor_fusion
 catkin_make
 source devel/setup.sh
 ```
+
+
+## Atom Robot
+```bash
+roslaunch atom world.launch
+```
+
